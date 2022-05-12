@@ -1,0 +1,151 @@
+.unite {
+  width: 140px;
+  z-index: 22;
+  position: absolute;
+  top: 120 px;
+  height: 72px;
+}
+
+.side {
+  background-color: #6423b3;
+  margin-top: 121px;
+  height: 48px;
+  width: 1300px;
+}
+
+.text {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 25px;
+  font-size: 15px;
+  margin-left: 158px;
+}
+
+.text2 {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 40px;
+  font-size: 15px;
+}
+
+.text3 {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 40px;
+  font-size: 15px;
+}
+
+.text4 {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 40px;
+  font-size: 15px;
+}
+
+.text5 {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 40px;
+  font-size: 15px;
+}
+
+.text6 {
+  list-style: none;
+  text-decoration: none;
+  display: inline;
+  padding: 40px;
+  font-size: 15px;
+}
+
+.button {
+  margin-left: 100px;
+  height: 43px;
+  width: 190px;
+  border-radius: 22px;
+  background-color: #fb7823;
+  font-weight: bold;
+  top: -14px;
+  position: relative;
+  text-transform: uppercase;
+  cursor: pointer;
+  left: 1004px;
+}
+
+.pokeball {
+  width: 38px;
+  height: 40px;
+  z-index: 5;
+  position: absolute;
+  top: 126px;
+  left: 1154px;
+  background-image: none;
+  cursor: pointer;
+}
+
+.pokeball2 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 26px;
+}
+
+.pokeball3 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 37px;
+}
+
+.pokeball4 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 37px;
+}
+
+.pokeball5 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 26px;
+}
+
+.pokeball6 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 42px;
+}
+
+.pokeball7 {
+  height: 10px;
+  position: relative;
+  top: 20px;
+  color: orange;
+  right: 49px;
+}
+
+.logo2 {
+  height: 200px;
+  z-index: 5;
+  top: 215px;
+  position: absolute;
+  left: 506px;
+}
+
+.azumaril {
+  z-index: 5;
+  position: absolute;
+  top: 168px;
+}
+/*# sourceMappingURL=style.css.map */
